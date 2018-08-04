@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+        // put your code here
+        class add {
+    function add() {
+        $this->model = "MEENAKSHI";
+    }
+}
+
+// create an object
+$swetha = new add();
+
+// show object properties
+echo $swetha->model;
+        ?>
+    </body>
+</html>
